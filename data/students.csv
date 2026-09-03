@@ -1,0 +1,21 @@
+student_id,name,age,gender,course,math_score,reading_score,writing_score,cgpa
+1,Aarav Sharma,20,Male,Computer Science,92,89,94,9.18
+2,Diya Patel,19,Female,Information Technology,88,91,86,8.83
+3,Arjun Mehta,21,Male,Mechanical Engineering,76,80,74,7.67
+4,Ananya Rao,20,Female,Computer Science,95,93,96,9.47
+5,Kabir Singh,22,Male,Civil Engineering,69,72,70,7.03
+6,Meera Nair,19,Female,Electronics,84,87,82,8.43
+7,Rohan Gupta,20,Male,Information Technology,90,85,88,8.77
+8,Ishita Das,21,Female,Computer Science,78,83,81,8.07
+9,Vihaan Kapoor,19,Male,Mechanical Engineering,91,88,90,8.97
+10,Saanvi Joshi,20,Female,Civil Engineering,73,77,75,7.50
+11,Aditya Verma,22,Male,Electronics,86,90,85,8.70
+12,Kiara Shah,19,Female,Information Technology,97,95,94,9.53
+13,Reyansh Iyer,20,Male,Computer Science,82,79,84,8.17
+14,Myra Kulkarni,21,Female,Electronics,71,75,73,7.30
+15,Dev Malhotra,20,Male,Information Technology,89,92,87,8.93
+16,Tara Bhat,19,Female,Computer Science,93,90,91,9.13
+17,Manav Sethi,22,Male,Civil Engineering,80,78,82,8.00
+18,Avni Menon,20,Female,Mechanical Engineering,85,84,88,8.57
+19,Yash Thakur,21,Male,Electronics,68,74,71,7.10
+20,Pari Chawla,19,Female,Computer Science,94,96,92,9.40
